@@ -1,4 +1,4 @@
-baseURL: "https://melvinwevers.github.io"
+baseURL: "https://www.melvinwevers.nl/"
 title: Melvin Wevers
 pagination.pagerSize: 20
 theme: PaperMod
@@ -43,7 +43,7 @@ params:
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   ShowAllPagesInArchive: false
-  MainSections: ["books", "courses", "papers", "blog", "data"]
+  MainSections: ["blog"]
   ShowToc: false
   disableScrollToTop: true
   TocOpen: true
@@ -55,7 +55,11 @@ params:
     enabled: true
     title: <span style="color:#011F5B">Melvin Wevers</span>
     subtitle:
-      Computational Historian 👨‍🍳🚀 at the University of Amsterdam<br><br>
+      Computational Historian 👨‍🍳🚀 at the University of Amsterdam<br>
+      Scientific Director of the Humanities Labs, University of Amsterdam<br><br>
+      <strong>News</strong><br>
+      - Since August 1, 2026, I am the Scientific Director of the Humanities Labs at the University of Amsterdam<br>
+      - In September 2026, I am a visiting scholar at the D3 Center, Osaka University, hosted by Professor Noa Garcia<br><br>
       Currently working on <br>
       - constructing a dataset based on housing registry cards of the city of Amsterdam with Thomas Smits and Tim Verlaan<br>
       - analyzing historical botanical visual information with Luiza Teixeira Costa and Folgert Karsdorp <br>
